@@ -1,0 +1,6 @@
+/* Sidebar.css */
+.sidebar-item:hover {
+    background-color: #ccc; /* Use your desired gray color */
+    color: #333; /* Use a contrasting text color */
+  }
+  
