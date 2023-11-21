@@ -1,0 +1,28 @@
+/* body{
+    background-color: rgb(174, 210, 183);
+}
+.text{
+    background-color: black;
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow: scroll;
+}
+h5{
+    display: inline-block;
+    width: 20%;
+    height: 150px;
+    
+    background-image: linear-gradient(to right,orange,white);
+    padding: 20px;
+    margin: 5px 60px;
+    text-align: center;
+    text-shadow: 0cap;
+}
+
+.container{
+    overflow: hidden;
+} */
